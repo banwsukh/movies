@@ -9,7 +9,7 @@ public class SDF {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.println('added this bit from GitHub again');
+        System.out.println("added this bit from GitHub again");
         
         //String movie;
         String[] movies = new String[5];
