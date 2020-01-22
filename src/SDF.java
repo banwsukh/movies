@@ -8,6 +8,9 @@ public class SDF {
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
+        System.out.println('added this bit from GitHub');
+        
         //String movie;
         String[] movies = new String[5];
         
