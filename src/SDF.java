@@ -15,7 +15,7 @@ public class SDF {
         String[] movies = new String[5];
         
         for (int i = 0; i <= 4 ; i++) {
-            System.out.println("enter movie");
+            System.out.println("enter some movie");
             movies[i] = sc.nextLine();
 
         }
