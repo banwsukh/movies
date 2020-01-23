@@ -10,6 +10,7 @@ public class SDF {
         Scanner sc = new Scanner(System.in);
         
         System.out.println("added this bit from GitHub again");
+        System.out.println("we need two piece of output");
         
         //String movie;
         String[] movies = new String[5];
